@@ -7,18 +7,13 @@ The web UI was designed with AI assistance to achieve a cyberpunk HUD aesthetic 
 ---
 
 ## Demo
-Wiring diagram https://github.com/user-attachments/assets/bd7e7a61-498b-4639-b0a3-bb3584526818
-
-Picture https://github.com/user-attachments/assets/16d6c00f-7292-424f-937b-afe919683f28
-
+<img width="1915" height="927" alt="image" src="https://github.com/user-attachments/assets/b6200476-a613-458b-9f9a-9bc6da20e860" />
+<img width="1033" height="863" alt="image" src="https://github.com/user-attachments/assets/3d9d42e2-c9df-4ffa-b2c3-2a7a15771934" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/9f01ab80-94d5-4a56-a9ec-acf2d14f44d4" />
 <img width="1918" height="931" alt="image" src="https://github.com/user-attachments/assets/569db87c-3b04-490c-b968-632c0ac98e51" />
-
-
-Picture https://github.com/user-attachments/assets/6599b878-61f8-41a1-b3ef-dc0394a804ef
-
-Picture https://github.com/user-attachments/assets/4718c56a-61f7-407f-87a2-b5e4bfaedc85
-
-Picture https://github.com/user-attachments/assets/e19d7664-3fdc-4b04-a9b0-07c7abd549bd
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/7d2da9b8-7418-4838-9383-adccf69c07e5" />
+<img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/6fbf4f9d-7f4d-43b9-84c4-7e4af1bc83f3" />
+<img width="2048" height="1536" alt="image" src="https://github.com/user-attachments/assets/e4b43427-a0bf-41e9-b2c5-a097c06fe3e0" />
 
 
 ---
