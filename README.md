@@ -7,6 +7,7 @@ The web UI was designed with AI assistance to achieve a cyberpunk HUD aesthetic 
 ---
 
 ## Demo
+wiring diagram https://github.com/user-attachments/assets/bd7e7a61-498b-4639-b0a3-bb3584526818
 
 ---
 
