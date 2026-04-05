@@ -183,7 +183,7 @@ After flashing the OS, SSHing in, and optionally setting a static IP, upload and
 
 ```bash
 # On your Windows PC — upload the script
-scp setup.sh pi@wisdompi.local:~/setup.sh
+scp (path to way you saved setup.sh)setup.sh pi@(name of pi).local:~/setup.sh
 
 # SSH in and run it
 ssh pi@(name of pi).local
