@@ -11,6 +11,9 @@ Wiring diagram https://github.com/user-attachments/assets/bd7e7a61-498b-4639-b0a
 
 Picture https://github.com/user-attachments/assets/16d6c00f-7292-424f-937b-afe919683f28
 
+<img width="1918" height="931" alt="image" src="https://github.com/user-attachments/assets/569db87c-3b04-490c-b968-632c0ac98e51" />
+
+
 Picture https://github.com/user-attachments/assets/6599b878-61f8-41a1-b3ef-dc0394a804ef
 
 Picture https://github.com/user-attachments/assets/4718c56a-61f7-407f-87a2-b5e4bfaedc85
