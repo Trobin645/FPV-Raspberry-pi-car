@@ -84,7 +84,7 @@ Insert your microSD card. Click "Choose Storage" and select your card. Make sure
 
 Click the settings gear icon (or press Ctrl+Shift+X) and fill in the following:
 
-- Set hostname: (or any name you prefer — this is what you will SSH into)
+- Set hostname: (any name you prefer — this is what you will SSH into)
 - Enable SSH: checked, use password authentication
 - Set username: pi
 - Set password: choose a strong password
@@ -160,7 +160,7 @@ Press Ctrl+O, Enter, then Ctrl+X to save. Then:
 sudo reboot
 ```
 
-After reboot, use your chosen static IP in place of wisdompi.local in all commands and in the MIT App Inventor HomeURL.
+After reboot, use your chosen static IP in place of (name of pi).local in all commands and in the MIT App Inventor HomeURL.
 
 ---
 
@@ -564,8 +564,6 @@ robot_car/
     motor_test.py           Standalone motor test — run before first use
 
 setup.sh                    One-command setup script
-wiring_diagram.drawio       Full wiring diagram (open in draw.io)
-README.md                   This file
 ```
 
 ---
@@ -576,7 +574,7 @@ README.md                   This file
 - Ultrasonic obstacle detection with HC-SR04
 - Servo camera pan and tilt mount
 - GPIO-controlled LED headlights via MOSFET
-- ROS2 integration
+- LiDAR ROS2 integration
 - Encoder-based odometry
 
 ---
@@ -589,7 +587,10 @@ Pull requests welcome. If you adapt this for a different motor driver, camera se
 
 ## Author
 
-Built by a robotics and software engineering student at UTC Derby.
+Built by a robotics and software engineering student at UTC Derby
+
+Wisdom Daramola.
+
 Hardware integration, motor control, system debugging, and architecture done manually.
 Web UI aesthetics designed with AI assistance.
 
