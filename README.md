@@ -2,7 +2,7 @@
 
 A WiFi-controlled FPV robot car built on a Raspberry Pi 4. The car streams live video over a local network and is controlled through a web interface that works on any phone or laptop browser with no app install required. The backend is Python and Flask, the motor control uses gpiozero, and the camera stream uses picamera2.
 
-The web UI was designed with AI assistance to achieve a cyberpunk HUD aesthetic — the logic, hardware integration, debugging, and overall system architecture were all done manually.
+The web UI was designed with AI assistance to achieve a cyberpunk HUD aesthetic and convert all codes to one file— the logic, hardware integration, debugging, and overall system architecture were all done manually.
 
 ---
 
@@ -602,8 +602,8 @@ Built by a robotics and software engineering student at UTC Derby
 
 Wisdom Daramola.
 
-Hardware integration, motor control, system debugging, and architecture done manually.
-Web UI aesthetics designed with AI assistance.
+Hardware integration, motor control, system debugging, and architecture were done manually.
+Web UI aesthetics designed with AI assistance and converting code to one filee.
 
 ---
 
