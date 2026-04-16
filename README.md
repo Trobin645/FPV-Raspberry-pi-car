@@ -8,7 +8,6 @@ The web UI was designed with AI assistance to achieve a cyberpunk HUD aesthetic 
 
 ## Demo
 
-Working car video https://github.com/user-attachments/assets/e5deb66e-b595-49e0-bd43-efd4d96c2b88
 
 
 https://github.com/user-attachments/assets/3c904a9b-2dcb-4e00-8400-67866fc9a6d8
