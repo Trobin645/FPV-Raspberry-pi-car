@@ -10,7 +10,8 @@ The web UI was designed with AI assistance to achieve a cyberpunk HUD aesthetic 
 
 
 
-https://github.com/user-attachments/assets/3c904a9b-2dcb-4e00-8400-67866fc9a6d8
+https://github.com/user-attachments/assets/1a0cb2f1-9365-4c2d-9305-0907c679da28
+
 
 
 
