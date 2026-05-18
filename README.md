@@ -603,12 +603,13 @@ Pull requests welcome. If you adapt this for a different motor driver, camera se
 
 ## Author
 
-Built by a robotics and software engineering student at UTC Derby
+**Wisdom Daramola — UTC Derby Pride Park, Derby**
 
-Wisdom Daramola.
+I physically built and wired the robot car, set up the Raspberry Pi OS, deployed all software and resolved hardware and connectivity issues through hands-on testing.
 
-Hardware integration, motor control, system debugging, and architecture were done manually.
-Web UI aesthetics designed with AI assistance and converting code to one filee.
+The Flask backend, web interface and setup script were generated using AI tools. 
+
+The hardware integration, motor wiring, power system, real-world debugging and getting the full system reliably working over WiFi were all done by me.
 
 ---
 
